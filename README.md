@@ -1,1 +1,2 @@
-# fantastic-lamp
+### agama-sms
+ OTP authentication with SMS
